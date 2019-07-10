@@ -47,6 +47,13 @@ def over?(board)
   end
 end
 
+
+
+
+
+
+
+
 def winner (board)
   index = []
   index = won?(board)
